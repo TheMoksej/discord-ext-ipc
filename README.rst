@@ -1,3 +1,8 @@
+.. raw :: html
+
+    <h1 align="center">As of the 28th August 2021 discord-ext-ipc is no-longer maintained.</h1>
+    <br>
+
 .. raw:: html
 
     <p align="center">
@@ -44,6 +49,6 @@ Installation
 See Also
 --------
 
-- The `documentation <https://discord-ext-ipc.readthedocs.io/>`_.
+- The `documentation <https://ext-creators.github.io/docs/ipc/>`_.
 - The `usage examples <https://github.com/Ext-Creators/discord-ext-ipc/tree/master/examples>`_.
 - The `Ext-Creators Discord <https://discord.gg/fwYfYZJGck>`_.
